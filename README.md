@@ -1,3 +1,5 @@
+<img src="./arpitgithub.jpg"/>
+
 - 👋 Hi, I’m arpit vaishnav
      Founder of Developer Bazaar Technologies
 
