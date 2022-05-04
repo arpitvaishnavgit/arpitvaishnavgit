@@ -1,4 +1,4 @@
-<img src="./arpitsir.jpg"/>
+<img src="./arpit.jpg"/>
 
 Hi 👋, <b>I’m arpit vaishnav</b><br>
   Founder of Developer Bazaar Technologies
